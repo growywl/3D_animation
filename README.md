@@ -1,6 +1,7 @@
 ## Skeletal Animation Combat Demo (Based on LearnOpenGL)
 
 โปรเจกต์นี้พัฒนาต่อจากแนวทางตัวอย่าง skeletal animation ของ LearnOpenGL โดยทำเป็นเดโมมินิเกมต่อสู้แบบง่าย ๆ (มี player/enemy, กล้อง third-person, โจมตี, เลือด, และแถบ HP)
+
 https://github.com/user-attachments/assets/fc22d17b-5e80-4295-8fd6-5d5f8c83c5e0
 ### Demo Features
 - Player model: Farmer (FBX) + multiple animations
