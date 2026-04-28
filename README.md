@@ -32,4 +32,3 @@ cmake --build build -j
 export LOGL_ROOT_PATH="$PWD"
 ./build/8.guest_2020_skeletal_animation
 ```
-# 3D_animation
