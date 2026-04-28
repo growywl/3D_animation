@@ -36,11 +36,9 @@
 
 ### Controls
 - Move: `W A S D`
-- Run: `Shift`
-- Attack: `Left Mouse` หรือ `Space`
+- Attack: `Space`
 - Respawn enemy / restart after win: `R`
 - Camera rotate: `Mouse move`
-- Zoom: `Mouse wheel`
 - Exit: `ESC`
 
 ### Project Files
